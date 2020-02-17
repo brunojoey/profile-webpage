@@ -1,0 +1,44 @@
+/* Typography */
+
+body {
+    font-family: Optima, Geneva, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+h2 {
+    margin-top: .5em;
+    font-size: 3em;
+    font-weight: bold;
+    border-bottom: solid;
+}
+
+.card-title {
+    text-align: center;
+}
+
+/* End Typography */
+
+/* Styling */
+
+label, button, .next, .lastParagraph, .space {
+    margin-bottom: .75em;
+}
+
+.col-lg-4 {
+    margin: 1em 0 .5em 0;
+}
+
+.introParagraph { 
+    margin-top: 1em;
+}
+
+
+.form-check {
+    padding: 0;
+}
+
+.joey {
+    border: solid .3em #d9534f;
+}
+
+/* End Styling */
