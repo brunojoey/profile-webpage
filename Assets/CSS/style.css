@@ -20,6 +20,14 @@ h2 {
 
 /* Styling */
 
+.joey {
+    border: solid .3em #d9534f;
+}
+
+/* End Styling */
+
+/* Formatting */
+
 label, button, .next, .lastParagraph, .space {
     margin-bottom: .75em;
 }
@@ -37,8 +45,4 @@ label, button, .next, .lastParagraph, .space {
     padding: 0;
 }
 
-.joey {
-    border: solid .3em #d9534f;
-}
-
-/* End Styling */
+/* End Formatting */
