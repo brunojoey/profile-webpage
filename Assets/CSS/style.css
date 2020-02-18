@@ -40,6 +40,10 @@ label, button, .next, .lastParagraph, .space {
     margin-top: 1em;
 }
 
+.stickyFooter {
+    width: 100%;
+    margin-top: auto;
+}
 
 .form-check {
     padding: 0;
